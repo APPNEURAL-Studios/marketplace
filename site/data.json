@@ -1,0 +1,142 @@
+{
+  "slug": "marketplace",
+  "host": "marketplace",
+  "title": "Marketplace",
+  "tagline": "Templates, plugins and components",
+  "description": "Publish and manage templates, plugins, components, and themes for the ecosystem. Configure pricing, licensing, and private distribution, moderate submissions, track versions, and monitor revenue, commissions, and usage analytics.",
+  "editors": [
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Template Publishing Editor",
+      "desc": "Publish templates to marketplace"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Marketplace Listing Editor",
+      "desc": "Create/edit product listings"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Template Preview Builder",
+      "desc": "Live template preview generation"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Template Bundle Editor",
+      "desc": "Bundle multiple templates together"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Pricing Editor",
+      "desc": "Set pricing tiers and models"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Licensing Editor",
+      "desc": "License type configuration"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Plugin Submission Editor",
+      "desc": "Submit plugins for review"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Creator Profile Editor",
+      "desc": "Creator/developer public profile"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Component Publishing Editor",
+      "desc": "Publish UI components"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Theme Publishing Editor",
+      "desc": "Publish themes to marketplace"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Review and Moderation Console",
+      "desc": "Content review and approval"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Version and Update Manager",
+      "desc": "Version control for listings"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Private Marketplace Manager",
+      "desc": "Org-private asset distribution"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Revenue and Commission Dashboard",
+      "desc": "Earnings and payout tracking"
+    },
+    {
+      "category": "Marketplace & Ecosystem Tools",
+      "name": "Template Analytics Dashboard",
+      "desc": "Usage and performance metrics"
+    }
+  ],
+  "services": [
+    [
+      "commerce",
+      "core"
+    ],
+    [
+      "order",
+      "core"
+    ],
+    [
+      "catalog",
+      "core"
+    ],
+    [
+      "product",
+      "core"
+    ],
+    [
+      "payment",
+      "core"
+    ],
+    [
+      "search",
+      "core"
+    ],
+    [
+      "review",
+      "new"
+    ],
+    [
+      "verification",
+      "new"
+    ],
+    [
+      "media",
+      "new"
+    ],
+    [
+      "marketing",
+      "core"
+    ],
+    [
+      "customer",
+      "core"
+    ],
+    [
+      "location",
+      "new"
+    ],
+    [
+      "recommendation",
+      "gap"
+    ],
+    [
+      "moderation",
+      "gap"
+    ]
+  ]
+}
